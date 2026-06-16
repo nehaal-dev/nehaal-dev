@@ -10,7 +10,7 @@ I am a passionate Full Stack PHP Developer with hands-on experience in building 
 
 ⸻
 
-🚀 Tech Stack
+ 
 
 ## 🚀 Tech Stack
 
@@ -33,12 +33,15 @@ I am a passionate Full Stack PHP Developer with hands-on experience in building 
 ⸻
 
 📊 GitHub Stats
+
 ![Nehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehaal-dev&show_icons=true&theme=default)
 
 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=nehaal-dev)
 
 👀 Profile Visitors
+
 ![](https://komarev.com/ghpvc/?username=nehaal-dev&color=blue)
 
 ⸻
