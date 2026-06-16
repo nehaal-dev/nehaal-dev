@@ -47,7 +47,7 @@ I am a passionate Full Stack PHP Developer with hands-on experience in building 
 ⸻
 
 📌 Featured Projects
-📌 Featured Projects
+ 
 
 Invoice Portal
 
@@ -55,11 +55,13 @@ A Laravel-based invoice management system for creating, managing, and tracking i
 
 🔗 https://github.com/nehaal-dev/invoice_portal
 
+
 Metro Style
 
 A responsive eCommerce clothing store built using Core PHP, MySQL, and modern web technologies.
 
 🔗 https://github.com/nehaal-dev/Metro_Style
+
 
 Core PHP CRUD
 
@@ -67,11 +69,13 @@ A complete CRUD application with image upload, form validation, and database ope
 
 🔗 https://github.com/nehaal-dev/core_php_crud
 
+
 PHP Notes
 
 A structured repository containing topic-wise PHP notes and practical examples for revision and learning.
 
 🔗 https://github.com/nehaal-dev/php-Notes
+
 
 Web Scraping
 
