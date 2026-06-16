@@ -71,6 +71,8 @@ A structured repository containing topic-wise PHP notes and practical examples f
 A collection of web scraping scripts and data extraction projects developed using PHP.
 
 🔗 [View Project](https://github.com/nehaal-dev/web-scrapping)
+
+
 ⸻
 
 🌐 Portfolio
