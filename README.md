@@ -45,6 +45,8 @@ I am a passionate Full Stack PHP Developer with hands-on experience in building 
 ![](https://komarev.com/ghpvc/?username=nehaal-dev&color=blue)
 
 ⸻
+
+
  📌 Featured Projects
 
 ### Invoice Portal
