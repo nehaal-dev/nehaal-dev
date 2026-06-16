@@ -2,10 +2,10 @@ Hi, I’m Nehal Khan 👋
 
 Full Stack PHP Laravel Developer
 
-I am a passionate PHP Laravel Developer with experience in building web applications using Core PHP, Laravel, MySQL, JavaScript, Bootstrap, and REST APIs.
+I am a passionate Full Stack PHP Developer with hands-on experience in building and deploying web applications using Core PHP, Laravel, MySQL, JavaScript, Bootstrap, and REST APIs. I enjoy developing clean, scalable, and efficient solutions while continuously improving my technical skills.
 
 🔭 Currently working on PHP & Laravel projects
-🌱 Continuously learning Laravel, APIs, and modern web development practices
+🌱 Learning advanced Laravel concepts, APIs, and modern web development practices
 💡 Interested in Backend Development, Web Applications, and Problem Solving
 
 ⸻
@@ -25,33 +25,48 @@ I am a passionate PHP Laravel Developer with experience in building web applicat
 
 ⸻
 
+📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+
+🔥 GitHub Streak
+
+<!-- GitHub Streak Card -->
+
+👀 Profile Visitors
+
+<!-- Visitor Counter -->
+
+⸻
+
 📌 Featured Projects
 
 Invoice Portal
 
-Invoice management system built with Laravel.
+A Laravel-based invoice management system for creating, managing, and tracking invoices efficiently.
 
 Metro Style
 
-E-commerce clothing store built using Core PHP and MySQL.
+A responsive eCommerce clothing store built using Core PHP, MySQL, and modern web technologies.
 
 Core PHP CRUD
 
-CRUD application with image upload and database operations.
+A complete CRUD application with image upload, form validation, and database operations.
 
 PHP Notes
 
-Topic-wise PHP learning and revision repository.
+A structured repository containing topic-wise PHP notes and practical examples for revision and learning.
 
 Web Scraping
 
-Collection of web scraping scripts and data extraction projects.
+A collection of web scraping scripts and data extraction projects developed using PHP.
 
 ⸻
 
 🌐 Portfolio
 
-Portfolio Website: https://nehaal.netlify.app
+Portfolio Website:
+https://nehaal.netlify.app
 
 ⸻
 
@@ -65,4 +80,4 @@ https://github.com/nehaal-dev
 
 ⸻
 
-Thanks for visiting my profile! 🚀
+⭐ Feel free to explore my repositories and connect with me.
