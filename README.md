@@ -45,43 +45,37 @@ I am a passionate Full Stack PHP Developer with hands-on experience in building 
 ![](https://komarev.com/ghpvc/?username=nehaal-dev&color=blue)
 
 ⸻
-
-📌 Featured Projects
- 
+ 📌 Featured Projects
 
 Invoice Portal
 
 A Laravel-based invoice management system for creating, managing, and tracking invoices efficiently.
 
-🔗 https://github.com/nehaal-dev/invoice_portal
-
+🔗 View Project
 
 Metro Style
 
 A responsive eCommerce clothing store built using Core PHP, MySQL, and modern web technologies.
 
-🔗 https://github.com/nehaal-dev/Metro_Style
-
+🔗 View Project
 
 Core PHP CRUD
 
 A complete CRUD application with image upload, form validation, and database operations.
 
-🔗 https://github.com/nehaal-dev/core_php_crud
-
+🔗 View Project
 
 PHP Notes
 
 A structured repository containing topic-wise PHP notes and practical examples for revision and learning.
 
-🔗 https://github.com/nehaal-dev/php-Notes
-
+🔗 View Project
 
 Web Scraping
 
 A collection of web scraping scripts and data extraction projects developed using PHP.
 
-🔗 https://github.com/nehaal-dev/web-scrapping
+🔗 View Project
 
 ⸻
 
