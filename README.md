@@ -1,16 +1,68 @@
-## Hi there 👋
+Hi, I’m Nehal Khan 👋
 
-<!--
-**nehaal-dev/nehaal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack PHP Laravel Developer
 
-Here are some ideas to get you started:
+I am a passionate PHP Laravel Developer with experience in building web applications using Core PHP, Laravel, MySQL, JavaScript, Bootstrap, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on PHP & Laravel projects
+🌱 Continuously learning Laravel, APIs, and modern web development practices
+💡 Interested in Backend Development, Web Applications, and Problem Solving
+
+⸻
+
+🚀 Tech Stack
+
+* PHP
+* Laravel
+* MySQL
+* JavaScript
+* jQuery
+* HTML5
+* CSS3
+* Bootstrap
+* REST APIs
+* Git & GitHub
+
+⸻
+
+📌 Featured Projects
+
+Invoice Portal
+
+Invoice management system built with Laravel.
+
+Metro Style
+
+E-commerce clothing store built using Core PHP and MySQL.
+
+Core PHP CRUD
+
+CRUD application with image upload and database operations.
+
+PHP Notes
+
+Topic-wise PHP learning and revision repository.
+
+Web Scraping
+
+Collection of web scraping scripts and data extraction projects.
+
+⸻
+
+🌐 Portfolio
+
+Portfolio Website: https://nehaal.netlify.app
+
+⸻
+
+📫 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/nehaal-khan-225b0b259
+
+GitHub:
+https://github.com/nehaal-dev
+
+⸻
+
+Thanks for visiting my profile! 🚀
